@@ -5,7 +5,8 @@ This repository was created to store my assignments for the course COMP 206 (Int
 A1: Introduction to Bash (screenshots) --> Not included  <br />
 A2: Backup program that creates a .tar file into the given directory + File comparison program  <br />
 A3: File finding and pattern finding program <br />
-A4: Divisibility and anagram checking programs (in progress)
+A4: Divisibility and anagram checking programs
+A5: Coming soon.
 
 ## About Plagirism
 All codes have been uploaded after the due date of the assignments, and reflect my personal effort. <br />
